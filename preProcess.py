@@ -19,7 +19,7 @@ class PlayerInfo:
 
 class PlayerStats:
 # order of stats
-# asts, blk, dreb, fgm, fgs, fta, ftm, height, oreb, pf, pts, stl, to, tpa, tpm, weight 
+# asts, blk, dreb, fga, fgm, fta, ftm, height, oreb, pf, pts, stl, to, tpa, tpm, weight 
     def __init__(self, mins, pts, oreb, dreb, asts, stl, blk, to, 
         pf, fga, fgm, fta, ftm, tpa, tpm, height, weight, position):
         self.mins = mins
